@@ -23,7 +23,7 @@ Because it's a good idea to have a safe place to make mistakes when learning to 
 
 - Clone the repo
 ```
-$ git clone https://github.com/cararthompson/sandbox.git
+git clone https://github.com/cararthompson/sandbox.git
 
 ```
 - Create your own branch

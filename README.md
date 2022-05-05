@@ -17,6 +17,11 @@ learning to use Git!
 ## Great, what kind of things should I try to do?
 
 -   Clone the repo
+
+<!-- -->
+
+    git clone https://github.com/cararthompson/sandbox.git
+
 -   Create your own branch
 -   Make a change; add, commit, push
 -   Create a pull request
