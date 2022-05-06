@@ -33,6 +33,7 @@ git clone https://github.com/cararthompson/sandbox.git
 
 It can be anything. Keep it classy!
 
+
 ### Create your own branch
 
 You'll want to give it a clear name that relates to what you'd like to do within it. Something like "adding-einstein-quote" or "caras-new-quote" is fine. Git doesn't like spaces, so remember to use "kebab case" (which-looks-like-this) for your branch name!
@@ -44,7 +45,11 @@ git checkout -b nice-branch-name
 
 ```
 
-- Make a change; add, commit, push
+## Make a change to `client-quotes.txt`; add, commit, push
+
+That's all there is to it. As you do this, you'll notice that instead of `(main)`, you can see the name of your branch in the command line after the path to where you are. Paying attention to that goes a long way in keeping us all sane when working with branches! 
+
+
 - Create a pull request
 - Experience a merge conflict and learn how to fix it!
 
